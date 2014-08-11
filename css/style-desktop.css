@@ -65,7 +65,7 @@
 			{
 			}
 			
-			    .box.post h1,h2,h3,h4,h5,h6
+			    .box.post h1, .box.post h2, .box.post h3,.box.post h4, .box.post h5, .box.post h6
 				{
 					padding-top: 1em;
 					margin: 0 0 2em 0;
@@ -265,7 +265,7 @@
 		
 			#nav > ul > li.current > a
 			{
-				background: #d52349;
+				background: #E66926; /*#d52349;*/
 				color: #fff !important;
 				font-weight: 700;
 			}
