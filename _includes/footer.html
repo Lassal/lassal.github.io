@@ -1,0 +1,111 @@
+			<div id="footer-wrapper">
+				<section id="footer" class="container">
+					<div class="row">
+						<div class="8u">
+							<section>
+								<header>
+									<h2>Blandit nisl adipiscing</h2>
+								</header>
+								<ul class="dates">
+								{% for post in site.posts limit:5 %}
+								   <li>
+								      <span class="date">{{post.date| date: "%b"}} <strong>{{post.date| date: "%d"}}</strong></span>
+									  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                                                                          <p><em>{{post.shortdescr}}</em></p>
+								   </li>
+								{% endfor %}
+								</ul>
+							</section>
+						</div>
+						<div class="4u">
+							<section id="blog_about">
+								<header>
+									<h2>Um pouco sobre o blog</h2>
+								</header>
+								<a href="#" class="image featured"><img src="/images/DogAreia_profile.jpg" alt="" /></a>
+								<p>
+								   Este é <strong>architect@LASSAL</strong>, o blog pessoal / portfolio de Luciano Alves dos Santos.
+								   Aqui é onde apresento projetos pessoais, ideias sobre desenvolvimento, arquitetura de soluções em .Net e Java, dicas de performance entre outras coisas.</br>
+								   Se quiser saber mais sobre mim clique no botão abaixo ;-)
+								</p>
+								<footer>
+									<a href="/perfil/index.html" class="button">Ver perfil completo</a>
+								</footer>
+								<footer>
+								   <p>Obrigado a galera do <a href="http://html5up.net/">HTML5 UP</a> por este belo template <a href="http://n33.co">(Dopetrope)</a></p>
+								</footer>
+</p>
+							</section>
+						</div>
+					</div>
+					<div class="row">
+						<div class="4u">
+							<section>
+								<header>
+									<h2>Arquitetura</h2>
+								</header>
+								<ul class="divided">
+								{% for post in site.categories.architecture reversed limit:6 %}
+									<li><a href="{{post.url}}">{{post.title}}</a></li>
+								{% endfor %}
+								</ul>
+							</section>
+						</div>
+						<div class="4u">
+							<section>
+								<header>
+									<h2>Padrões de desenvolvimento</h2>
+								</header>
+								<ul class="divided">
+								{% for post in site.categories.designpattern reversed limit:6 %}
+									<li><a href="{{post.url}}">{{post.title}}</a></li>
+								{% endfor %}
+								</ul>
+							</section>
+						</div>
+						<div class="4u">
+							<section>
+								<header>
+									<h2>Onde me achar</h2>
+								</header>
+								<ul class="social">
+									<li><a class="icon fa-github" href="https://github.com/lassal/"><span class="label">GitHub</span></a></li>
+									<li><a class="icon fa-stack-overflow" href="#"><span class="label">Stackoverflow</span></a></li>
+									<li><a class="icon fa-linkedin" href="#"><span class="label">LinkedIn</span></a></li>
+									<li><a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a></li>
+								</ul>
+								<ul class="contact">
+									<li>
+										<h3>Address</h3>
+										<p>
+										    Freguesia do Ó - Zona Norte <br/>
+										    São Paulo - SP <br/>
+										    Brasil <br/>
+										</p>
+									</li>
+									<li>
+										<h3>Mail</h3>
+										<p><a href="#">someone@untitled.tld</a></p>
+									</li>
+									<li>
+										<h3>Phone</h3>
+										<p>(800) 000-0000</p>
+									</li>
+								</ul>
+							</section>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+						
+							<!-- Copyright -->
+								<div id="copyright">
+									<ul class="links">
+										<li>&copy; LASSAL All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+									</ul>
+								</div>
+
+						</div>
+					</div>
+				</section>
+			</div>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 12 Aug 2014 18:22:54 -0300</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2014 18:22:54 -0300</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Aug 2014 06:19:29 -0300</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/08/12/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/12/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Só funciona se eu colocar dentro das aspas???</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Aug 2014 06:19:29 -0300</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/08/12/oiatemplate/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/12/oiatemplate/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Post de test #06 de arquitetura e performance</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel egestas odio. Sed pretium nisi dolor, vitae luctus ligula fermentum eu. Phasellus congue magna lectus, ac pulvinar tellus aliquam at. Donec lectus ante, facilisis vitae ipsum a, malesuada sodales magna. Aenean elementum consequat dui vitae porttitor. Sed tincidunt magna et ante gravida, ac condimentum lectus sollicitudin. Curabitur faucibus, magna sed accumsan ultricies, est sem adipiscing augue, vitae fermentum sapien lacus nec magna. In porta sapien aliquam elit ultricies semper eu vitae massa. Praesent vitae tortor convallis, ultricies metus quis, aliquet purus. Duis eget tincidunt felis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas in lacus ornare, consectetur leo non, adipiscing nunc. Pellentesque semper libero id scelerisque consequat. Vivamus tempus lorem at lacus ultricies, quis scelerisque massa commodo. Etiam porta, neque vitae sollicitudin congue, magna massa condimentum mauris, sed malesuada lorem dolor in sapien. Vestibulum eget lorem ut lectus aliquet pellentesque ut nec erat. Curabitur facilisis leo ac mollis faucibus. Vestibulum diam justo, congue vitae placerat id, eleifend ac quam. Phasellus non lorem ac lorem mattis scelerisque.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-aa&quot;&gt;Subseção AA&lt;/h3&gt;
+&lt;p&gt;Aenean aliquam arcu urna, suscipit malesuada arcu aliquet eget. Vestibulum risus massa, sollicitudin in mauris sed, congue ultrices ligula. Vestibulum aliquam augue ac magna convallis, at sollicitudin elit facilisis. Pellentesque tristique semper erat a fermentum. Ut ornare mattis purus non cursus. Fusce eget magna nec urna blandit vehicula. Aenean eget lacus in erat consequat iaculis. Donec dolor ante, porta sit amet urna at, cursus dapibus est. Phasellus ut porta lorem. Nullam porta semper urna, eu posuere mi tincidunt eget. Ut pellentesque elit at libero ullamcorper, quis tempor ipsum sodales. Sed id ipsum id enim bibendum porttitor gravida ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Phasellus elementum lectus ut velit vulputate dictum. Vivamus ut dolor id lacus elementum vestibulum scelerisque vel nulla. In at dui quis mi faucibus posuere in at neque. Vestibulum sed tincidunt orci. Ut lobortis congue leo, in feugiat enim condimentum vitae. Curabitur quam tortor, cursus in diam at, auctor iaculis enim. In pulvinar, felis et feugiat lobortis, est turpis congue ipsum, faucibus laoreet felis magna sed purus. Fusce viverra, neque ac tempus gravida, nunc libero fermentum nibh, ac pretium urna tellus a mauris. Aenean pharetra, tellus nec dapibus dictum, quam neque eleifend libero, eu tincidunt risus nibh vel orci. Phasellus vehicula imperdiet sapien et faucibus. Sed cursus dignissim mattis.&lt;/p&gt;
+
+&lt;p&gt;Vivamus rutrum mattis nunc, ut volutpat felis blandit ac. Nulla ut faucibus erat. In vulputate eu urna non ornare. Curabitur sagittis libero at molestie ultricies. Maecenas pulvinar purus elementum nibh gravida, non fringilla lectus molestie. Etiam in turpis dui. Morbi a purus vitae enim congue pretium eget ut leo. Duis mattis ante non nisl interdum, sed mattis arcu interdum. Duis et varius ante. Aenean tempus neque neque, eu luctus dui sodales vel. Cras varius, mi ac porttitor scelerisque, leo libero ultrices dolor, ultrices sodales augue urna ut libero. Sed et metus rutrum, facilisis est at, tempor massa. Phasellus dignissim, ipsum ac convallis bibendum, mi dui venenatis justo, vel rhoncus est purus eget massa. Phasellus fermentum elementum lacus, vel porta eros hendrerit ut.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-bb&quot;&gt;Subseção BB&lt;/h3&gt;
+&lt;p&gt;In molestie leo tempus vestibulum porta. Aliquam bibendum, ipsum non molestie dignissim, lectus leo lacinia risus, ac commodo ante eros quis ipsum. Vestibulum vel quam dictum, lobortis lectus non, consectetur massa. Nam ante ligula, accumsan sed arcu in, convallis ornare urna. Cras sodales volutpat diam, eget pellentesque diam facilisis eget. Proin fermentum ipsum sed dignissim mollis. Cras dolor diam, blandit nec risus quis, egestas lacinia nunc. Sed feugiat arcu nisl, quis adipiscing mi viverra sit amet. Vivamus sed porttitor nisi. Sed pharetra est ut nisi pharetra iaculis. Nunc at dui vel lorem convallis facilisis.&lt;/p&gt;
+
+&lt;p&gt;Nulla sit amet orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam quis libero feugiat, venenatis felis vitae, porta odio. Donec eu nulla ac leo ullamcorper cursus sit amet in metus. Aenean dictum sem a consectetur vehicula. Vivamus euismod lectus eu ante congue congue. Sed vehicula consectetur sem, viverra consectetur felis porttitor at. Nulla quis iaculis lorem. Pellentesque malesuada elementum quam, vulputate ultricies dui feugiat eget. Nullam posuere pharetra hendrerit. Pellentesque non turpis vel neque gravida euismod at vitae enim. In sollicitudin risus ac lobortis sodales. Sed rutrum libero ante, sed iaculis velit ornare ut.&lt;/p&gt;
+
+&lt;p&gt;Aenean tincidunt bibendum dui et cursus. Pellentesque et sollicitudin metus, id ullamcorper lorem. Nunc scelerisque ante nulla, sed sollicitudin urna posuere at. Donec hendrerit nisl dolor, sed iaculis elit convallis eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare arcu non tortor auctor, eu euismod enim commodo. Maecenas consequat malesuada condimentum. Curabitur aliquam mi ac luctus aliquet. Cras porta lectus magna, et ultrices mauris congue sed. Aliquam in neque in augue convallis venenatis. In tincidunt felis sed ultrices consequat.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 May 2014 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/performance/2014/05/06/test6/</link>
+        <guid isPermaLink="true">http://yourdomain.com/performance/2014/05/06/test6/</guid>
+        
+        
+        <category>performance</category>
+        
+      </item>
+    
+      <item>
+        <title>Post de test #05 sobre padrões de desenvolvimento</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel egestas odio. Sed pretium nisi dolor, vitae luctus ligula fermentum eu. Phasellus congue magna lectus, ac pulvinar tellus aliquam at. Donec lectus ante, facilisis vitae ipsum a, malesuada sodales magna. Aenean elementum consequat dui vitae porttitor. Sed tincidunt magna et ante gravida, ac condimentum lectus sollicitudin. Curabitur faucibus, magna sed accumsan ultricies, est sem adipiscing augue, vitae fermentum sapien lacus nec magna. In porta sapien aliquam elit ultricies semper eu vitae massa. Praesent vitae tortor convallis, ultricies metus quis, aliquet purus. Duis eget tincidunt felis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas in lacus ornare, consectetur leo non, adipiscing nunc. Pellentesque semper libero id scelerisque consequat. Vivamus tempus lorem at lacus ultricies, quis scelerisque massa commodo. Etiam porta, neque vitae sollicitudin congue, magna massa condimentum mauris, sed malesuada lorem dolor in sapien. Vestibulum eget lorem ut lectus aliquet pellentesque ut nec erat. Curabitur facilisis leo ac mollis faucibus. Vestibulum diam justo, congue vitae placerat id, eleifend ac quam. Phasellus non lorem ac lorem mattis scelerisque.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-aa&quot;&gt;Subseção AA&lt;/h3&gt;
+&lt;p&gt;Aenean aliquam arcu urna, suscipit malesuada arcu aliquet eget. Vestibulum risus massa, sollicitudin in mauris sed, congue ultrices ligula. Vestibulum aliquam augue ac magna convallis, at sollicitudin elit facilisis. Pellentesque tristique semper erat a fermentum. Ut ornare mattis purus non cursus. Fusce eget magna nec urna blandit vehicula. Aenean eget lacus in erat consequat iaculis. Donec dolor ante, porta sit amet urna at, cursus dapibus est. Phasellus ut porta lorem. Nullam porta semper urna, eu posuere mi tincidunt eget. Ut pellentesque elit at libero ullamcorper, quis tempor ipsum sodales. Sed id ipsum id enim bibendum porttitor gravida ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Phasellus elementum lectus ut velit vulputate dictum. Vivamus ut dolor id lacus elementum vestibulum scelerisque vel nulla. In at dui quis mi faucibus posuere in at neque. Vestibulum sed tincidunt orci. Ut lobortis congue leo, in feugiat enim condimentum vitae. Curabitur quam tortor, cursus in diam at, auctor iaculis enim. In pulvinar, felis et feugiat lobortis, est turpis congue ipsum, faucibus laoreet felis magna sed purus. Fusce viverra, neque ac tempus gravida, nunc libero fermentum nibh, ac pretium urna tellus a mauris. Aenean pharetra, tellus nec dapibus dictum, quam neque eleifend libero, eu tincidunt risus nibh vel orci. Phasellus vehicula imperdiet sapien et faucibus. Sed cursus dignissim mattis.&lt;/p&gt;
+
+&lt;p&gt;Vivamus rutrum mattis nunc, ut volutpat felis blandit ac. Nulla ut faucibus erat. In vulputate eu urna non ornare. Curabitur sagittis libero at molestie ultricies. Maecenas pulvinar purus elementum nibh gravida, non fringilla lectus molestie. Etiam in turpis dui. Morbi a purus vitae enim congue pretium eget ut leo. Duis mattis ante non nisl interdum, sed mattis arcu interdum. Duis et varius ante. Aenean tempus neque neque, eu luctus dui sodales vel. Cras varius, mi ac porttitor scelerisque, leo libero ultrices dolor, ultrices sodales augue urna ut libero. Sed et metus rutrum, facilisis est at, tempor massa. Phasellus dignissim, ipsum ac convallis bibendum, mi dui venenatis justo, vel rhoncus est purus eget massa. Phasellus fermentum elementum lacus, vel porta eros hendrerit ut.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-bb&quot;&gt;Subseção BB&lt;/h3&gt;
+&lt;p&gt;In molestie leo tempus vestibulum porta. Aliquam bibendum, ipsum non molestie dignissim, lectus leo lacinia risus, ac commodo ante eros quis ipsum. Vestibulum vel quam dictum, lobortis lectus non, consectetur massa. Nam ante ligula, accumsan sed arcu in, convallis ornare urna. Cras sodales volutpat diam, eget pellentesque diam facilisis eget. Proin fermentum ipsum sed dignissim mollis. Cras dolor diam, blandit nec risus quis, egestas lacinia nunc. Sed feugiat arcu nisl, quis adipiscing mi viverra sit amet. Vivamus sed porttitor nisi. Sed pharetra est ut nisi pharetra iaculis. Nunc at dui vel lorem convallis facilisis.&lt;/p&gt;
+
+&lt;p&gt;Nulla sit amet orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam quis libero feugiat, venenatis felis vitae, porta odio. Donec eu nulla ac leo ullamcorper cursus sit amet in metus. Aenean dictum sem a consectetur vehicula. Vivamus euismod lectus eu ante congue congue. Sed vehicula consectetur sem, viverra consectetur felis porttitor at. Nulla quis iaculis lorem. Pellentesque malesuada elementum quam, vulputate ultricies dui feugiat eget. Nullam posuere pharetra hendrerit. Pellentesque non turpis vel neque gravida euismod at vitae enim. In sollicitudin risus ac lobortis sodales. Sed rutrum libero ante, sed iaculis velit ornare ut.&lt;/p&gt;
+
+&lt;p&gt;Aenean tincidunt bibendum dui et cursus. Pellentesque et sollicitudin metus, id ullamcorper lorem. Nunc scelerisque ante nulla, sed sollicitudin urna posuere at. Donec hendrerit nisl dolor, sed iaculis elit convallis eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare arcu non tortor auctor, eu euismod enim commodo. Maecenas consequat malesuada condimentum. Curabitur aliquam mi ac luctus aliquet. Cras porta lectus magna, et ultrices mauris congue sed. Aliquam in neque in augue convallis venenatis. In tincidunt felis sed ultrices consequat.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 May 2014 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/designpattern/2014/05/05/test5/</link>
+        <guid isPermaLink="true">http://yourdomain.com/designpattern/2014/05/05/test5/</guid>
+        
+        
+        <category>designpattern</category>
+        
+      </item>
+    
+      <item>
+        <title>Post de test #04 Arquitetura</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel egestas odio. Sed pretium nisi dolor, vitae luctus ligula fermentum eu. Phasellus congue magna lectus, ac pulvinar tellus aliquam at. Donec lectus ante, facilisis vitae ipsum a, malesuada sodales magna. Aenean elementum consequat dui vitae porttitor. Sed tincidunt magna et ante gravida, ac condimentum lectus sollicitudin. Curabitur faucibus, magna sed accumsan ultricies, est sem adipiscing augue, vitae fermentum sapien lacus nec magna. In porta sapien aliquam elit ultricies semper eu vitae massa. Praesent vitae tortor convallis, ultricies metus quis, aliquet purus. Duis eget tincidunt felis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas in lacus ornare, consectetur leo non, adipiscing nunc. Pellentesque semper libero id scelerisque consequat. Vivamus tempus lorem at lacus ultricies, quis scelerisque massa commodo. Etiam porta, neque vitae sollicitudin congue, magna massa condimentum mauris, sed malesuada lorem dolor in sapien. Vestibulum eget lorem ut lectus aliquet pellentesque ut nec erat. Curabitur facilisis leo ac mollis faucibus. Vestibulum diam justo, congue vitae placerat id, eleifend ac quam. Phasellus non lorem ac lorem mattis scelerisque.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-aa&quot;&gt;Subseção AA&lt;/h3&gt;
+&lt;p&gt;Aenean aliquam arcu urna, suscipit malesuada arcu aliquet eget. Vestibulum risus massa, sollicitudin in mauris sed, congue ultrices ligula. Vestibulum aliquam augue ac magna convallis, at sollicitudin elit facilisis. Pellentesque tristique semper erat a fermentum. Ut ornare mattis purus non cursus. Fusce eget magna nec urna blandit vehicula. Aenean eget lacus in erat consequat iaculis. Donec dolor ante, porta sit amet urna at, cursus dapibus est. Phasellus ut porta lorem. Nullam porta semper urna, eu posuere mi tincidunt eget. Ut pellentesque elit at libero ullamcorper, quis tempor ipsum sodales. Sed id ipsum id enim bibendum porttitor gravida ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Phasellus elementum lectus ut velit vulputate dictum. Vivamus ut dolor id lacus elementum vestibulum scelerisque vel nulla. In at dui quis mi faucibus posuere in at neque. Vestibulum sed tincidunt orci. Ut lobortis congue leo, in feugiat enim condimentum vitae. Curabitur quam tortor, cursus in diam at, auctor iaculis enim. In pulvinar, felis et feugiat lobortis, est turpis congue ipsum, faucibus laoreet felis magna sed purus. Fusce viverra, neque ac tempus gravida, nunc libero fermentum nibh, ac pretium urna tellus a mauris. Aenean pharetra, tellus nec dapibus dictum, quam neque eleifend libero, eu tincidunt risus nibh vel orci. Phasellus vehicula imperdiet sapien et faucibus. Sed cursus dignissim mattis.&lt;/p&gt;
+
+&lt;p&gt;Vivamus rutrum mattis nunc, ut volutpat felis blandit ac. Nulla ut faucibus erat. In vulputate eu urna non ornare. Curabitur sagittis libero at molestie ultricies. Maecenas pulvinar purus elementum nibh gravida, non fringilla lectus molestie. Etiam in turpis dui. Morbi a purus vitae enim congue pretium eget ut leo. Duis mattis ante non nisl interdum, sed mattis arcu interdum. Duis et varius ante. Aenean tempus neque neque, eu luctus dui sodales vel. Cras varius, mi ac porttitor scelerisque, leo libero ultrices dolor, ultrices sodales augue urna ut libero. Sed et metus rutrum, facilisis est at, tempor massa. Phasellus dignissim, ipsum ac convallis bibendum, mi dui venenatis justo, vel rhoncus est purus eget massa. Phasellus fermentum elementum lacus, vel porta eros hendrerit ut.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-bb&quot;&gt;Subseção BB&lt;/h3&gt;
+&lt;p&gt;In molestie leo tempus vestibulum porta. Aliquam bibendum, ipsum non molestie dignissim, lectus leo lacinia risus, ac commodo ante eros quis ipsum. Vestibulum vel quam dictum, lobortis lectus non, consectetur massa. Nam ante ligula, accumsan sed arcu in, convallis ornare urna. Cras sodales volutpat diam, eget pellentesque diam facilisis eget. Proin fermentum ipsum sed dignissim mollis. Cras dolor diam, blandit nec risus quis, egestas lacinia nunc. Sed feugiat arcu nisl, quis adipiscing mi viverra sit amet. Vivamus sed porttitor nisi. Sed pharetra est ut nisi pharetra iaculis. Nunc at dui vel lorem convallis facilisis.&lt;/p&gt;
+
+&lt;p&gt;Nulla sit amet orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam quis libero feugiat, venenatis felis vitae, porta odio. Donec eu nulla ac leo ullamcorper cursus sit amet in metus. Aenean dictum sem a consectetur vehicula. Vivamus euismod lectus eu ante congue congue. Sed vehicula consectetur sem, viverra consectetur felis porttitor at. Nulla quis iaculis lorem. Pellentesque malesuada elementum quam, vulputate ultricies dui feugiat eget. Nullam posuere pharetra hendrerit. Pellentesque non turpis vel neque gravida euismod at vitae enim. In sollicitudin risus ac lobortis sodales. Sed rutrum libero ante, sed iaculis velit ornare ut.&lt;/p&gt;
+
+&lt;p&gt;Aenean tincidunt bibendum dui et cursus. Pellentesque et sollicitudin metus, id ullamcorper lorem. Nunc scelerisque ante nulla, sed sollicitudin urna posuere at. Donec hendrerit nisl dolor, sed iaculis elit convallis eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare arcu non tortor auctor, eu euismod enim commodo. Maecenas consequat malesuada condimentum. Curabitur aliquam mi ac luctus aliquet. Cras porta lectus magna, et ultrices mauris congue sed. Aliquam in neque in augue convallis venenatis. In tincidunt felis sed ultrices consequat.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 May 2014 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/architecture/2014/05/04/test4/</link>
+        <guid isPermaLink="true">http://yourdomain.com/architecture/2014/05/04/test4/</guid>
+        
+        
+        <category>architecture</category>
+        
+      </item>
+    
+      <item>
+        <title>Post de test #03 - Performance</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel egestas odio. Sed pretium nisi dolor, vitae luctus ligula fermentum eu. Phasellus congue magna lectus, ac pulvinar tellus aliquam at. Donec lectus ante, facilisis vitae ipsum a, malesuada sodales magna. Aenean elementum consequat dui vitae porttitor. Sed tincidunt magna et ante gravida, ac condimentum lectus sollicitudin. Curabitur faucibus, magna sed accumsan ultricies, est sem adipiscing augue, vitae fermentum sapien lacus nec magna. In porta sapien aliquam elit ultricies semper eu vitae massa. Praesent vitae tortor convallis, ultricies metus quis, aliquet purus. Duis eget tincidunt felis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas in lacus ornare, consectetur leo non, adipiscing nunc. Pellentesque semper libero id scelerisque consequat. Vivamus tempus lorem at lacus ultricies, quis scelerisque massa commodo. Etiam porta, neque vitae sollicitudin congue, magna massa condimentum mauris, sed malesuada lorem dolor in sapien. Vestibulum eget lorem ut lectus aliquet pellentesque ut nec erat. Curabitur facilisis leo ac mollis faucibus. Vestibulum diam justo, congue vitae placerat id, eleifend ac quam. Phasellus non lorem ac lorem mattis scelerisque.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-aa&quot;&gt;Subseção AA&lt;/h3&gt;
+&lt;p&gt;Aenean aliquam arcu urna, suscipit malesuada arcu aliquet eget. Vestibulum risus massa, sollicitudin in mauris sed, congue ultrices ligula. Vestibulum aliquam augue ac magna convallis, at sollicitudin elit facilisis. Pellentesque tristique semper erat a fermentum. Ut ornare mattis purus non cursus. Fusce eget magna nec urna blandit vehicula. Aenean eget lacus in erat consequat iaculis. Donec dolor ante, porta sit amet urna at, cursus dapibus est. Phasellus ut porta lorem. Nullam porta semper urna, eu posuere mi tincidunt eget. Ut pellentesque elit at libero ullamcorper, quis tempor ipsum sodales. Sed id ipsum id enim bibendum porttitor gravida ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Phasellus elementum lectus ut velit vulputate dictum. Vivamus ut dolor id lacus elementum vestibulum scelerisque vel nulla. In at dui quis mi faucibus posuere in at neque. Vestibulum sed tincidunt orci. Ut lobortis congue leo, in feugiat enim condimentum vitae. Curabitur quam tortor, cursus in diam at, auctor iaculis enim. In pulvinar, felis et feugiat lobortis, est turpis congue ipsum, faucibus laoreet felis magna sed purus. Fusce viverra, neque ac tempus gravida, nunc libero fermentum nibh, ac pretium urna tellus a mauris. Aenean pharetra, tellus nec dapibus dictum, quam neque eleifend libero, eu tincidunt risus nibh vel orci. Phasellus vehicula imperdiet sapien et faucibus. Sed cursus dignissim mattis.&lt;/p&gt;
+
+&lt;p&gt;Vivamus rutrum mattis nunc, ut volutpat felis blandit ac. Nulla ut faucibus erat. In vulputate eu urna non ornare. Curabitur sagittis libero at molestie ultricies. Maecenas pulvinar purus elementum nibh gravida, non fringilla lectus molestie. Etiam in turpis dui. Morbi a purus vitae enim congue pretium eget ut leo. Duis mattis ante non nisl interdum, sed mattis arcu interdum. Duis et varius ante. Aenean tempus neque neque, eu luctus dui sodales vel. Cras varius, mi ac porttitor scelerisque, leo libero ultrices dolor, ultrices sodales augue urna ut libero. Sed et metus rutrum, facilisis est at, tempor massa. Phasellus dignissim, ipsum ac convallis bibendum, mi dui venenatis justo, vel rhoncus est purus eget massa. Phasellus fermentum elementum lacus, vel porta eros hendrerit ut.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-bb&quot;&gt;Subseção BB&lt;/h3&gt;
+&lt;p&gt;In molestie leo tempus vestibulum porta. Aliquam bibendum, ipsum non molestie dignissim, lectus leo lacinia risus, ac commodo ante eros quis ipsum. Vestibulum vel quam dictum, lobortis lectus non, consectetur massa. Nam ante ligula, accumsan sed arcu in, convallis ornare urna. Cras sodales volutpat diam, eget pellentesque diam facilisis eget. Proin fermentum ipsum sed dignissim mollis. Cras dolor diam, blandit nec risus quis, egestas lacinia nunc. Sed feugiat arcu nisl, quis adipiscing mi viverra sit amet. Vivamus sed porttitor nisi. Sed pharetra est ut nisi pharetra iaculis. Nunc at dui vel lorem convallis facilisis.&lt;/p&gt;
+
+&lt;p&gt;Nulla sit amet orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam quis libero feugiat, venenatis felis vitae, porta odio. Donec eu nulla ac leo ullamcorper cursus sit amet in metus. Aenean dictum sem a consectetur vehicula. Vivamus euismod lectus eu ante congue congue. Sed vehicula consectetur sem, viverra consectetur felis porttitor at. Nulla quis iaculis lorem. Pellentesque malesuada elementum quam, vulputate ultricies dui feugiat eget. Nullam posuere pharetra hendrerit. Pellentesque non turpis vel neque gravida euismod at vitae enim. In sollicitudin risus ac lobortis sodales. Sed rutrum libero ante, sed iaculis velit ornare ut.&lt;/p&gt;
+
+&lt;p&gt;Aenean tincidunt bibendum dui et cursus. Pellentesque et sollicitudin metus, id ullamcorper lorem. Nunc scelerisque ante nulla, sed sollicitudin urna posuere at. Donec hendrerit nisl dolor, sed iaculis elit convallis eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare arcu non tortor auctor, eu euismod enim commodo. Maecenas consequat malesuada condimentum. Curabitur aliquam mi ac luctus aliquet. Cras porta lectus magna, et ultrices mauris congue sed. Aliquam in neque in augue convallis venenatis. In tincidunt felis sed ultrices consequat.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 May 2014 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/performance/2014/05/03/test3/</link>
+        <guid isPermaLink="true">http://yourdomain.com/performance/2014/05/03/test3/</guid>
+        
+        
+        <category>performance</category>
+        
+      </item>
+    
+      <item>
+        <title>Post de test #02</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel egestas odio. Sed pretium nisi dolor, vitae luctus ligula fermentum eu. Phasellus congue magna lectus, ac pulvinar tellus aliquam at. Donec lectus ante, facilisis vitae ipsum a, malesuada sodales magna. Aenean elementum consequat dui vitae porttitor. Sed tincidunt magna et ante gravida, ac condimentum lectus sollicitudin. Curabitur faucibus, magna sed accumsan ultricies, est sem adipiscing augue, vitae fermentum sapien lacus nec magna. In porta sapien aliquam elit ultricies semper eu vitae massa. Praesent vitae tortor convallis, ultricies metus quis, aliquet purus. Duis eget tincidunt felis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas in lacus ornare, consectetur leo non, adipiscing nunc. Pellentesque semper libero id scelerisque consequat. Vivamus tempus lorem at lacus ultricies, quis scelerisque massa commodo. Etiam porta, neque vitae sollicitudin congue, magna massa condimentum mauris, sed malesuada lorem dolor in sapien. Vestibulum eget lorem ut lectus aliquet pellentesque ut nec erat. Curabitur facilisis leo ac mollis faucibus. Vestibulum diam justo, congue vitae placerat id, eleifend ac quam. Phasellus non lorem ac lorem mattis scelerisque.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-aa&quot;&gt;Subseção AA&lt;/h3&gt;
+&lt;p&gt;Aenean aliquam arcu urna, suscipit malesuada arcu aliquet eget. Vestibulum risus massa, sollicitudin in mauris sed, congue ultrices ligula. Vestibulum aliquam augue ac magna convallis, at sollicitudin elit facilisis. Pellentesque tristique semper erat a fermentum. Ut ornare mattis purus non cursus. Fusce eget magna nec urna blandit vehicula. Aenean eget lacus in erat consequat iaculis. Donec dolor ante, porta sit amet urna at, cursus dapibus est. Phasellus ut porta lorem. Nullam porta semper urna, eu posuere mi tincidunt eget. Ut pellentesque elit at libero ullamcorper, quis tempor ipsum sodales. Sed id ipsum id enim bibendum porttitor gravida ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Phasellus elementum lectus ut velit vulputate dictum. Vivamus ut dolor id lacus elementum vestibulum scelerisque vel nulla. In at dui quis mi faucibus posuere in at neque. Vestibulum sed tincidunt orci. Ut lobortis congue leo, in feugiat enim condimentum vitae. Curabitur quam tortor, cursus in diam at, auctor iaculis enim. In pulvinar, felis et feugiat lobortis, est turpis congue ipsum, faucibus laoreet felis magna sed purus. Fusce viverra, neque ac tempus gravida, nunc libero fermentum nibh, ac pretium urna tellus a mauris. Aenean pharetra, tellus nec dapibus dictum, quam neque eleifend libero, eu tincidunt risus nibh vel orci. Phasellus vehicula imperdiet sapien et faucibus. Sed cursus dignissim mattis.&lt;/p&gt;
+
+&lt;p&gt;Vivamus rutrum mattis nunc, ut volutpat felis blandit ac. Nulla ut faucibus erat. In vulputate eu urna non ornare. Curabitur sagittis libero at molestie ultricies. Maecenas pulvinar purus elementum nibh gravida, non fringilla lectus molestie. Etiam in turpis dui. Morbi a purus vitae enim congue pretium eget ut leo. Duis mattis ante non nisl interdum, sed mattis arcu interdum. Duis et varius ante. Aenean tempus neque neque, eu luctus dui sodales vel. Cras varius, mi ac porttitor scelerisque, leo libero ultrices dolor, ultrices sodales augue urna ut libero. Sed et metus rutrum, facilisis est at, tempor massa. Phasellus dignissim, ipsum ac convallis bibendum, mi dui venenatis justo, vel rhoncus est purus eget massa. Phasellus fermentum elementum lacus, vel porta eros hendrerit ut.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-bb&quot;&gt;Subseção BB&lt;/h3&gt;
+&lt;p&gt;In molestie leo tempus vestibulum porta. Aliquam bibendum, ipsum non molestie dignissim, lectus leo lacinia risus, ac commodo ante eros quis ipsum. Vestibulum vel quam dictum, lobortis lectus non, consectetur massa. Nam ante ligula, accumsan sed arcu in, convallis ornare urna. Cras sodales volutpat diam, eget pellentesque diam facilisis eget. Proin fermentum ipsum sed dignissim mollis. Cras dolor diam, blandit nec risus quis, egestas lacinia nunc. Sed feugiat arcu nisl, quis adipiscing mi viverra sit amet. Vivamus sed porttitor nisi. Sed pharetra est ut nisi pharetra iaculis. Nunc at dui vel lorem convallis facilisis.&lt;/p&gt;
+
+&lt;p&gt;Nulla sit amet orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam quis libero feugiat, venenatis felis vitae, porta odio. Donec eu nulla ac leo ullamcorper cursus sit amet in metus. Aenean dictum sem a consectetur vehicula. Vivamus euismod lectus eu ante congue congue. Sed vehicula consectetur sem, viverra consectetur felis porttitor at. Nulla quis iaculis lorem. Pellentesque malesuada elementum quam, vulputate ultricies dui feugiat eget. Nullam posuere pharetra hendrerit. Pellentesque non turpis vel neque gravida euismod at vitae enim. In sollicitudin risus ac lobortis sodales. Sed rutrum libero ante, sed iaculis velit ornare ut.&lt;/p&gt;
+
+&lt;p&gt;Aenean tincidunt bibendum dui et cursus. Pellentesque et sollicitudin metus, id ullamcorper lorem. Nunc scelerisque ante nulla, sed sollicitudin urna posuere at. Donec hendrerit nisl dolor, sed iaculis elit convallis eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare arcu non tortor auctor, eu euismod enim commodo. Maecenas consequat malesuada condimentum. Curabitur aliquam mi ac luctus aliquet. Cras porta lectus magna, et ultrices mauris congue sed. Aliquam in neque in augue convallis venenatis. In tincidunt felis sed ultrices consequat.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 May 2014 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/designpattern/2014/05/02/test2/</link>
+        <guid isPermaLink="true">http://yourdomain.com/designpattern/2014/05/02/test2/</guid>
+        
+        
+        <category>designpattern</category>
+        
+      </item>
+    
+      <item>
+        <title>Post de test #01</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel egestas odio. Sed pretium nisi dolor, vitae luctus ligula fermentum eu. Phasellus congue magna lectus, ac pulvinar tellus aliquam at. Donec lectus ante, facilisis vitae ipsum a, malesuada sodales magna. Aenean elementum consequat dui vitae porttitor. Sed tincidunt magna et ante gravida, ac condimentum lectus sollicitudin. Curabitur faucibus, magna sed accumsan ultricies, est sem adipiscing augue, vitae fermentum sapien lacus nec magna. In porta sapien aliquam elit ultricies semper eu vitae massa. Praesent vitae tortor convallis, ultricies metus quis, aliquet purus. Duis eget tincidunt felis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas in lacus ornare, consectetur leo non, adipiscing nunc. Pellentesque semper libero id scelerisque consequat. Vivamus tempus lorem at lacus ultricies, quis scelerisque massa commodo. Etiam porta, neque vitae sollicitudin congue, magna massa condimentum mauris, sed malesuada lorem dolor in sapien. Vestibulum eget lorem ut lectus aliquet pellentesque ut nec erat. Curabitur facilisis leo ac mollis faucibus. Vestibulum diam justo, congue vitae placerat id, eleifend ac quam. Phasellus non lorem ac lorem mattis scelerisque.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-aa&quot;&gt;Subseção AA&lt;/h3&gt;
+&lt;p&gt;Aenean aliquam arcu urna, suscipit malesuada arcu aliquet eget. Vestibulum risus massa, sollicitudin in mauris sed, congue ultrices ligula. Vestibulum aliquam augue ac magna convallis, at sollicitudin elit facilisis. Pellentesque tristique semper erat a fermentum. Ut ornare mattis purus non cursus. Fusce eget magna nec urna blandit vehicula. Aenean eget lacus in erat consequat iaculis. Donec dolor ante, porta sit amet urna at, cursus dapibus est. Phasellus ut porta lorem. Nullam porta semper urna, eu posuere mi tincidunt eget. Ut pellentesque elit at libero ullamcorper, quis tempor ipsum sodales. Sed id ipsum id enim bibendum porttitor gravida ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;
+
+&lt;p&gt;Phasellus elementum lectus ut velit vulputate dictum. Vivamus ut dolor id lacus elementum vestibulum scelerisque vel nulla. In at dui quis mi faucibus posuere in at neque. Vestibulum sed tincidunt orci. Ut lobortis congue leo, in feugiat enim condimentum vitae. Curabitur quam tortor, cursus in diam at, auctor iaculis enim. In pulvinar, felis et feugiat lobortis, est turpis congue ipsum, faucibus laoreet felis magna sed purus. Fusce viverra, neque ac tempus gravida, nunc libero fermentum nibh, ac pretium urna tellus a mauris. Aenean pharetra, tellus nec dapibus dictum, quam neque eleifend libero, eu tincidunt risus nibh vel orci. Phasellus vehicula imperdiet sapien et faucibus. Sed cursus dignissim mattis.&lt;/p&gt;
+
+&lt;p&gt;Vivamus rutrum mattis nunc, ut volutpat felis blandit ac. Nulla ut faucibus erat. In vulputate eu urna non ornare. Curabitur sagittis libero at molestie ultricies. Maecenas pulvinar purus elementum nibh gravida, non fringilla lectus molestie. Etiam in turpis dui. Morbi a purus vitae enim congue pretium eget ut leo. Duis mattis ante non nisl interdum, sed mattis arcu interdum. Duis et varius ante. Aenean tempus neque neque, eu luctus dui sodales vel. Cras varius, mi ac porttitor scelerisque, leo libero ultrices dolor, ultrices sodales augue urna ut libero. Sed et metus rutrum, facilisis est at, tempor massa. Phasellus dignissim, ipsum ac convallis bibendum, mi dui venenatis justo, vel rhoncus est purus eget massa. Phasellus fermentum elementum lacus, vel porta eros hendrerit ut.&lt;/p&gt;
+
+&lt;h3 id=&quot;subseo-bb&quot;&gt;Subseção BB&lt;/h3&gt;
+&lt;p&gt;In molestie leo tempus vestibulum porta. Aliquam bibendum, ipsum non molestie dignissim, lectus leo lacinia risus, ac commodo ante eros quis ipsum. Vestibulum vel quam dictum, lobortis lectus non, consectetur massa. Nam ante ligula, accumsan sed arcu in, convallis ornare urna. Cras sodales volutpat diam, eget pellentesque diam facilisis eget. Proin fermentum ipsum sed dignissim mollis. Cras dolor diam, blandit nec risus quis, egestas lacinia nunc. Sed feugiat arcu nisl, quis adipiscing mi viverra sit amet. Vivamus sed porttitor nisi. Sed pharetra est ut nisi pharetra iaculis. Nunc at dui vel lorem convallis facilisis.&lt;/p&gt;
+
+&lt;p&gt;Nulla sit amet orci neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam quis libero feugiat, venenatis felis vitae, porta odio. Donec eu nulla ac leo ullamcorper cursus sit amet in metus. Aenean dictum sem a consectetur vehicula. Vivamus euismod lectus eu ante congue congue. Sed vehicula consectetur sem, viverra consectetur felis porttitor at. Nulla quis iaculis lorem. Pellentesque malesuada elementum quam, vulputate ultricies dui feugiat eget. Nullam posuere pharetra hendrerit. Pellentesque non turpis vel neque gravida euismod at vitae enim. In sollicitudin risus ac lobortis sodales. Sed rutrum libero ante, sed iaculis velit ornare ut.&lt;/p&gt;
+
+&lt;p&gt;Aenean tincidunt bibendum dui et cursus. Pellentesque et sollicitudin metus, id ullamcorper lorem. Nunc scelerisque ante nulla, sed sollicitudin urna posuere at. Donec hendrerit nisl dolor, sed iaculis elit convallis eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam ornare arcu non tortor auctor, eu euismod enim commodo. Maecenas consequat malesuada condimentum. Curabitur aliquam mi ac luctus aliquet. Cras porta lectus magna, et ultrices mauris congue sed. Aliquam in neque in augue convallis venenatis. In tincidunt felis sed ultrices consequat.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2014 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/architecture/2014/05/01/test1/</link>
+        <guid isPermaLink="true">http://yourdomain.com/architecture/2014/05/01/test1/</guid>
+        
+        
+        <category>architecture</category>
+        
+      </item>
+    
+      <item>
+        <title>Test Post 3</title>
+        <description>&lt;p&gt;﻿—
+layout: section
+title: Post Teste #3
+subtitle: Lorem ipsum dolor sit amet feugiat
+shortdescr: Post de teste #3 bla bla bla
+—&lt;/p&gt;
+
+&lt;p&gt;Vestibulum scelerisque ultricies libero id hendrerit. Vivamus malesuada quam faucibus ante dignissim auctor hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo. Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante. Pellentesque tempus nulla non urna eleifend ut ultrices nisi faucibus.&lt;/p&gt;
+
+&lt;p&gt;Praesent a dolor leo. Duis in felis in tortor lobortis volutpat et pretium tellus. Vestibulum ac ante nisl, a elementum odio. Duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet nullam consequat feugiat dolore tempus.&lt;/p&gt;
+
+&lt;h3 id=&quot;something-else&quot;&gt;Something else&lt;/h3&gt;
+
+&lt;p&gt;Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis. placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet nullam consequat feugiat dolore tempus.&lt;/p&gt;
+
+&lt;p&gt;Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet nullam consequat feugiat dolore tempus.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-in-conclusion-&quot;&gt;So in conclusion …&lt;/h3&gt;
+
+&lt;p&gt;Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc, eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet nullam consequat feugiat dolore tempus. Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jul 2012 00:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/2012/07/07/test-post-3/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2012/07/07/test-post-3/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+					<div class="row">
+						<div class="4u">
+						<!-- Sidebar -->
+						{% if page.category == 'architecture' %}
+						  {% include sectionArchitecture.html %}
+						{% elsif page.category == 'designpattern' %}
+						  {% include sectionDesignPattern.html %}
+						{% elsif page.category == 'performance' %}
+						  {% include sectionPerformance.html %}
+						{% endif %}
+						</div>
+						<div class="8u skel-cell-important">
+							
+							<!-- Content -->
+								<article class="box post">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<header>
+										<h2>{{page.title}}</h2>
+										<p>{{page.subtitle}}</p>
+									</header>
+									{{content}}
+									
+								</article>
+
+						</div>
+					</div>
