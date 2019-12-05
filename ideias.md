@@ -1,5 +1,6 @@
 ## Ideias de temas para artigos
 
+------------------------------
 ### Para que server um arquiteto de software
 Descrever o que faz um arquiteto de software de forma suscinta, explicar quando a atividade se tornou relevante, e explicar o que um arquiteto deveria fazer pelo contexto de quando o arquiteto falha.
  
@@ -18,3 +19,20 @@ Descrever o que faz um arquiteto de software de forma suscinta, explicar quando 
   5. não entende como esta aplicação pode ser mantida e evoluída após sua concepção original
   
 4. Ligar o quanto estes pontos tem a ver com comunicação, e entendimento de todos stakeholders, e mostrar que um arquiteto tem que ser um bom comunicador, conciliador, e não um cara que só manja de tecnologia. Ele precisa entender diversas tecnologias e entender os problemas que elas solucionam mas o mais importante é identificar os problemas que devemos solucionar, e para isso precisamos olhar pra as pessoas pois quem tem problemas a resolver são as pessoas.
+
+
+-----------------------------------
+### Porquê nossas aplicações são lentas ?
+
+- Explicar que não projetamos aplicações para serem rápidas
+   - Que não aprendemos sobre as limitações físicas de processamento
+   - Sobre as medidas de tempo: cabe um 1 bilhão de nanos em 1 segundo  (1s = mmm.uuu.nnn)
+   - Trazer exemplos de tempo de processamento: leitura de disco, de memória, ciclo de CPU
+   - Explicar que a performance esperada não ocorre por acaso, mas a aplicação pode performar por acaso
+   
+------------------------------------
+### Software uma história de falha
+ - falar sobre as diversas aplicações que surgiram e morreram ao longo do tempo
+ - falar sobre criar diversas aplicações que resolvem o mesmo problema, e como a seleção natural garante a escolha das melhores soluções
+ - explicar que as melhores soluções são consequência de trazer beneficios para quem a utiliza; a tecnologia tem que trazer vantagens sobre as outras soluções que se propõem a solucionar um mesmo problema.
+ 
