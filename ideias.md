@@ -1,3 +1,21 @@
+## Estrutura do blog
+  - Perfil: apresentação sobre mim e descrição do que faço
+  - Anuário: timeline dos meus últimos anos com principais conquistas e desafios, agrupados em quarters
+  - Artigos
+     - Opinião/análise de arquitetura
+     - Conceitos: performance, técnicas
+     - Blueprint de projetos (visão genérica)
+     - Miscelania: viagens, coisas legais
+
+## Layouts possíveis
+  - https://html5up.net/story
+  - https://html5up.net/editorial
+  - https://html5up.net/solid-state
+  - https://html5up.net/spectral
+  - https://html5up.net/hyperspace
+  - https://html5up.net/forty
+
+
 ## Ideias de temas para artigos
 
 ------------------------------
